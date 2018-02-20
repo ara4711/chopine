@@ -66,7 +66,7 @@ Fetch messages:
     curl  http://localhost:8080/msgs/pelle?lb=2&ub=3
 ```
 
-Fetch recent messages:
+Fetch new messages:
 ```
-    curl  http://localhost:8080/msgs/pelle?recent
+    curl  http://localhost:8080/msgs/pelle?new
 ```
