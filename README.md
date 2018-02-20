@@ -17,6 +17,11 @@ telefonnummer eller användarnamn.
 
 Implementationen har ett REST-API
 
+### Credits
+
+The server is based on the python web-framework [bottle](https://github.com/bottlepy/bottle).
+The file bottle.py is copied verbatim from them.
+
 ### Usage instructions 
 
 install on macosx:
